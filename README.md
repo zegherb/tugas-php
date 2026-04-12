@@ -24,6 +24,6 @@ Skrip interaktif berbasis *Command Line Interface* (CLI) untuk memperbarui data 
 * **Database:** Menggunakan *Prepared Statements* PDO agar aman dari serangan *SQL Injection*. Skrip ini terhubung ke *database* `pbp2026`.
 
 ### 3. `tugas5.php` 
-Skrip sederhana untuk memvalidasi bahwa server lokal dan PHP berjalan dengan baik. Skrip ini juga mengeksekusi fungsi `phpinfo()` untuk menampilkan detail konfigurasi dan modul *environment* PHP yang sedang aktif.
+Skrip PHP sederhana untuk koneksi web server dan database MySQL serta menampilkan data di browser.
 
 ---
