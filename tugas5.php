@@ -57,7 +57,7 @@ try {
     <?php foreach ($users as $user): ?>
         <div class="user">
             ID: <?= $user['id']; ?> <br>
-            Nama: <?= $user['name']; ?>
+            Nama: <?= $user['nama']; ?>
         </div>
     <?php endforeach; ?>
 
